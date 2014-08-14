@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.Hotel</string>
+				<string>com.sunday.JXGY</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>西坡酒店</string>
+				<string>机械工业</string>
 			</dict>
 		</dict>
 	</array>
