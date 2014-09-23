@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.sunday.WG</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>万国汽车1.1</string>
+				<string>万国汽车1.2</string>
 			</dict>
 		</dict>
 	</array>
