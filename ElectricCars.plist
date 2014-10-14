@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.ElectricCars</string>
+				<string>com.sunday.ddc</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
