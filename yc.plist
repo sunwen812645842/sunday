@@ -11,27 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/JXGY/ios/JXGY.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/JXGY/ios/icon.png</string>
+					<string>http://vipstatic.sunday-mobi.com/download/yuncai/ios/Clude.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.JXGY</string>
+				<string>com.sunday.Clude</string>
 				<key>bundle-version</key>
-				<string>1.06</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>机械信息</string>
+				<string>云彩</string>
 			</dict>
 		</dict>
 	</array>
