@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/cheshi/ios/cheshi.ipa</string>
+					<string>http://vipstatic.sunday-mobi.com/download/cheshi/IOS/cheshi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/cheshi/ios/icon.png</string>
+					<string>http://vipstatic.sunday-mobi.com/download/cheshi/IOS/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.cheshi</string>
+				<string>com.sunday.cheshiDis</string>
 				<key>bundle-version</key>
 				<string>1.01</string>
 				<key>kind</key>
