@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.cheshiempDis</string>
+				<string>com.sunday.cheshiemp</string>
 				<key>bundle-version</key>
 				<string>1.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>车仕员工版</string>
+				<string>車仕员工版</string>
 			</dict>
 		</dict>
 	</array>
