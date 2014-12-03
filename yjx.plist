@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -13,13 +13,21 @@
 					<key>url</key>
 					<string>http://vipstatic.sunday-mobi.com/download/yjx/ios/yjx.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://vipstatic.sunday-mobi.com/download/yjx/ios/icon.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.sunday.YJX</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
