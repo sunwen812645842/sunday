@@ -7,7 +7,6 @@
 		<dict>
 			<key>assets</key>
 			<array>
-				
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
@@ -32,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ÐÂÉÌµê1.0</string>
+				<string>æ–°å•†åº—1.0</string>
 			</dict>
 		</dict>
 	</array>
