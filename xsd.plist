@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.sunday.newstore</string>
 				<key>bundle-version</key>
-				<string>1.3</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新商店1.3</string>
+				<string>新商店1.4</string>
 			</dict>
 		</dict>
 	</array>
