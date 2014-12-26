@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/xsd/ios/xsd.ipa</string>
+					<string>http://vipstatic.sunday-mobi.com/download/nzxy/ios/NZXY.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,19 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/xsd/ios/icon.png</string>
+					<string>http://vipstatic.sunday-mobi.com/download/nzxy/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.newstore</string>
+				<string>com.sunday.NZXY</string>
 				<key>bundle-version</key>
-				<string>1.6.9</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新商店1.6.9</string>
+				<string>美娘女子学院</string>
 			</dict>
 		</dict>
 	</array>
