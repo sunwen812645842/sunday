@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.newstore</string>
+				<string>com.sunday.newstroe</string>
 				<key>bundle-version</key>
-				<string>1.6.9</string>
+				<string>1.7.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新商店1.6.9</string>
+				<string>新商店</string>
 			</dict>
 		</dict>
 	</array>
