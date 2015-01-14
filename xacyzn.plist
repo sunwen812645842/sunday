@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sunday.xacyzn</string>
 				<key>bundle-version</key>
-				<string>1.6</string>
+				<string>1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
