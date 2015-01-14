@@ -1,0 +1,40 @@
+@-webkit-keyframes start /* Safari and Chrome */
+{
+0%   {}
+25% {-webkit-transform:translate(0px,-10px);}
+50% {-webkit-transform:translate(0px,-20px);opacity:0;}
+75% {-webkit-transform:translate(0px,-10px);opacity:0;}
+100% {-webkit-transform:translate(0px,0px);opacity:0; /* Safari and Chrome */}
+}
+
+@-webkit-keyframes transtoTop /* Safari and Chrome */
+{
+0%   {}
+100% {-webkit-transform:translate(0px,0px); /* Safari and Chrome */}
+}
+
+@-webkit-keyframes slideUp /* Safari and Chrome */
+{
+0%   {}
+50%   {-webkit-transform:translate(0px,-250px);}
+100% {-webkit-transform:translate(0px,-500px);display: none; /* Safari and Chrome */}
+}
+
+@-webkit-keyframes slideDown /* Safari and Chrome */
+{
+0%   {}
+50%   {-webkit-transform:translate(0px,250px);}
+100% {-webkit-transform:translate(0px,500px);display: none; /* Safari and Chrome */}
+}
+
+@-webkit-keyframes firstStatus /* Safari and Chrome */
+{
+0%   {}
+100% {-webkit-transform:scale(1); /* Safari and Chrome */}
+}
+
+.arrowup{
+-webkit-animation: start 2s infinite ease-in-out;
+-moz-animation: start 2s infinite ease-in-out;
+animation: start 2s infinite ease-in-out;
+}

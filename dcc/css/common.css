@@ -1,0 +1,107 @@
+body{
+margin:0;
+padding:0;
+}
+.box{
+position: absolute;
+left:0;
+top:0;
+bottom:0;
+right: 0;
+background-size: 100% 100%;
+backface-visibility: hidden;
+overflow:visible;
+width:100%;
+}
+#cas{
+width: 100%;
+height: 100%;
+opacity: 1;
+float:left;
+-webkit-transition:opacity .5s;
+-ms-transition:opacity .5s;
+-moz-transition:opacity .5s;
+}
+.cover{
+position: absolute;
+top: 0;
+left: 0;
+height:100%;
+width: 100%;
+z-index: 9;
+}
+.boximages{
+position: absolute;
+top: 0;
+left: 0;
+height:100%;
+width: 100%;
+z-index: 9;
+background: #fff;
+}
+.boximages div{width:100%;height:100%;display:block;margin:auto; }
+.noOp{
+display:none;
+}
+#laroutinebutton{
+background: -webkit-gradient(linear,center top,center bottom,from(#6fab38), to(#57862a));
+display: block;
+position: absolute;
+width: 150px;
+height:50px;
+-webkit-border-radius: 8px;
+border: #000 5px;
+color:#fff;
+font-size: 25px;
+z-index: 9999;
+text-align: center;
+line-height: 50px;
+}
+.u-arrow {
+display: none;
+position: fixed;
+bottom: 30px;
+left: 50%;
+z-index: 1000;
+width: 80px;
+height: 80px;
+margin-left: -40px;
+}
+
+.u-arrow p {
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -14px 0 0 -25px;
+width: 50px;
+height: 28px;
+background-position: 0 -82px;
+
+}
+
+/**
+ * ÉùÒôÔª¼þ
+ * -u-audio
+ */
+.u-audio { position: absolute; top: 40px; right: 0; width: 132px; height: 73px; z-index: 200; }
+.u-audio .res_audio { position: absolute; top: 0; left: 0; opacity: 0; height: 0; width: 0; }
+.u-audio .btn_audio { width: 100%; padding-top: 29px; height: 44px; }
+.u-audio .btn_audio strong,
+.u-audio .btn_audio .audio_open { display: inline-block; height: 44px; line-height: 44px; vertical-align: middle; }
+.u-audio .btn_audio strong { width: 57px; font-size: 24px; color: #fff; opacity: 1; }
+.u-audio .btn_audio .audio_open { position: absolute; bottom: 0; left: 56px; width: 44px; }
+.u-audio .btn_audio strong.z-hide { opacity: 0; }
+.u-audio .btn_audio strong.z-move { 
+	-webkit-transition:opacity 0.5s;
+  	   -moz-transition:opacity 0.5s;
+	    -ms-transition:opacity 0.5s;
+	     -o-transition:opacity 0.5s;
+	        transition:opacity 0.5s;
+}
+.u-audio.z-low { z-index: 1; }
+
+
+.css_sprite01 {
+background-image: url(http://static.moyuqiu.com/la-routine/arrow.png)!important;
+background-repeat: no-repeat!important;
+}
