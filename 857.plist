@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/xagx/ios/xagx.ipa</string>
+					<string>http://vipstatic.sunday-mobi.com/download/sjxd/ios/sjxd.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,19 +19,20 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/xagx/ios/icon.png</string>
+					<string>http://vipstatic.sunday-mobi.com/download/sjxd/ios/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunday.zhgx</string>
+				<string>com.sunday.SJXD
+</string>
 				<key>bundle-version</key>
-				<string>2.6</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>西安高新区</string>
+				<string>舌尖上的香都</string>
 			</dict>
 		</dict>
 	</array>
